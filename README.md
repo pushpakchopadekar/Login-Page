@@ -25,5 +25,5 @@ This repository contains a simple login page built using **HTML**, **CSS**, and 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/repo-name.git
+   [git clone https://github.com/your-username/repo-name.git](https://github.com/pushpakchopadekar/Login-Page.git)
 
